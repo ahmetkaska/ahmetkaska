@@ -11,7 +11,6 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />
  
 <br>
-<br>
 
 <h3>Tech I Use</h3>
 
