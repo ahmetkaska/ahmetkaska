@@ -7,7 +7,7 @@
 
 
 🌐 Reach out to me:<br>
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" />] [twitter]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" style="color:blue"/>] [twitter]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" />] [linkedin]
 
 [twitter] : https://twitter.com/ahmettkaska?t=LDKD4dCZoNb8Kyvl6TQz5A&s=08
