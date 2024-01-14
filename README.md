@@ -2,8 +2,8 @@
 
 <h3>💫 About Me:</h3>
 😎 I’m Computer Engineering student with a passion for software.<br>
-🤝 Shoot me and Email or add me on LinkdIn :)<br>
 🌱 I’m currently learning Javascript, React and Oracle Sql DB.<br>
+🤝 Shoot me and Email or add me on LinkdIn :)<br>
 
 
 <h3 align="left">Connect with me:</h3>
